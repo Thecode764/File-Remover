@@ -3,7 +3,10 @@ help File-Remover
 - simple File-Remover tool made with Python3 (:
 # Levels 👑
 [Install Python3](#Install-Python3)
-
+<br>
+[Output](#Output)
+<br>
+[Output While Install](#Output-While-Install)
 
 ---
 ## Install Python3
@@ -45,3 +48,14 @@ python3 Trash.py
 <h1 align="center">Output While Install</h1>
 
 ![Imgur](https://i.postimg.cc/jT1p0Skx/Screenshot-from-2023-08-06-00-33-12.png?dl=1)
+
+---
+## For Update
+```zsh
+rm -r File-Remover
+git clone https://github.com/Thecode764/File-Remover
+cd File-Remover
+python2 Trash2.py
+```
+- Please Dont Delete `File-Remover` folder for Delete Open terminal and type `sudo su` and enter command `rm -r File-Remover`.
+
