@@ -37,4 +37,11 @@ python3 Trash.py
 <h1 align="center">Output</h1>
 
 
-![Imgur](https://www.linkpicture.com/download.php?filename=Screenshot-from-2023-08-06-06-27-14.png)
+![Imgur](https://i.postimg.cc/wgHG5yGB/Screenshot-from-2023-08-06-06-27-14.png?dl=1)
+
+
+
+
+<h1 align="center">Output While Install</h1>
+
+![Imgur](https://i.postimg.cc/jT1p0Skx/Screenshot-from-2023-08-06-00-33-12.png?dl=1)
