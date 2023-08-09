@@ -28,7 +28,7 @@ Chocolatey install python3
 For Install In Macos
 ```
 Install Brew Package
-brew install python2
+brew install python3
 ```
 
 ## How To Run ?
